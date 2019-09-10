@@ -7,12 +7,15 @@ MuziqueHub is a MERN stack web application designed for connecting users to info
 
 ## How to Use 🤔
 After searching for a band or musician the user is provided with a short biography, images, social media links and even music videos.
+<hr>
 <img src= "https://media.giphy.com/media/kGilbQs5xJg4ZWVYwG/giphy.gif" alt="Artist Search" width="75%">
  
 They can also search by artist or location to find relevant concerts.
+<hr>
 <img src= "https://media.giphy.com/media/lRvnnZpJQSJgsLBb7D/giphy.gif" alt="Concert Search" width="75%">
  
 The app is available to anyone but only after logging in the user will be able to save favorites to their own personal feed.
+<hr>
 <img src= "https://media.giphy.com/media/S6HhmrC3mfmkzcBVSe/giphy.gif" alt="Favorites Feed" width="75%">
 
 ## How it Works 🔨
