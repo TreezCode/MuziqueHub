@@ -1,20 +1,19 @@
 # MuziqueHub
 
-Demo: [<MuziqueHub](https://project-3-music-app.herokuapp.com).
+Demo: [MuziqueHub](https://project-3-music-app.herokuapp.com).
 
 ## About 📖
 MuziqueHub is a MERN stack web application designed for connecting users to information on their favorite artists.
 
 ## How to Use 🤔
 After searching for a band or musician the user is provided with a short biography, images, social media links and even music videos.
-<img src= "https://media.giphy.com/media/kGilbQs5xJg4ZWVYwG/giphy.gif" alt="Artist Search" width="100%">
+<img src= "https://media.giphy.com/media/kGilbQs5xJg4ZWVYwG/giphy.gif" alt="Artist Search" width="75%">
  
 They can also search by artist or location to find relevant concerts.
-<img src= "src/images/click-game.png" alt="React Click Game" width="100%">
+<img src= "https://media.giphy.com/media/lRvnnZpJQSJgsLBb7D/giphy.gif" alt="Concert Search" width="75%">
  
 The app is available to anyone but only after logging in the user will be able to save favorites to their own personal feed.
-<img src= "src/images/click-game.png" alt="React Click Game" width="100%">
-
+<img src= "https://media.giphy.com/media/S6HhmrC3mfmkzcBVSe/giphy.gif" alt="Favorites Feed" width="75%">
 
 ## How it Works 🔨
 1. On the Home page, users will be presented with ablilty to search for an artist. 
