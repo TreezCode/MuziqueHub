@@ -103,15 +103,15 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With 🔧
 * [CSS3](https://www.w3schools.com/css/) - CSS is a language that describes the style of an HTML document.
 * [Express](https://www.npmjs.com/package/express) - Node.js web app framework designed to make developing websites, web apps, & API's much easier.
-* [ReactJS](https://reactjs.org) - A JavaScript library for building user interfaces.
 * [Heroku](https://www.heroku.com/) - A cloud based platform that lets companies build, deliver, monitor and scale applications.
 * [HTML5](https://www.w3schools.com/html/) - HTML is the standard markup language for Web pages.
 * [Javascript](https://www.javascript.com/) - JavaScript is the programming language of HTML and the Web
 * [JSON](https://www.json.org/) - Javascript object notation, syntax for storing and exchanging information. 
-* [MySQL](https://www.mysql.com/) - Open source relational database management system (RDBMS) based on Structured Query Language (SQL)
 * [MVC](https://www.geeksforgeeks.org/mvc-design-pattern/) - The Model-View-Controller is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller.
+* [MySQL](https://www.mysql.com/) - Open source relational database management system (RDBMS) based on Structured Query Language (SQL)
 * [Node](https://nodejs.org/en/download/) - As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications. 
 * [PassportJS](http://www.passportjs.org/) - Authentication middleware for NodeJS. 
+* [ReactJS](https://reactjs.org) - A JavaScript library for building user interfaces.
 * [Sequelize](https://sequelize.readthedocs.io/en/v3/) - Connects objects with relational database systems.
 * [Studio3T](https://studio3t.com) - Studio 3T is the professional GUI and IDE for MongoDB.
 
