@@ -22,7 +22,8 @@ The app is available to anyone but only after logging in the user will be able t
 
 ## How it Works 🔨
 The application uses two seperate API's to retrieve data.
-1. TheAudioDB API *A community Database of audio artwork and data*
+1. TheAudioDB API 
+*A community Database of audio artwork and data*
 ```
 router.get("/search", (req, res) => {
     const artistName = req.query.artistName.replace(/\s/g, "+");
@@ -51,7 +52,8 @@ router.get("/search", (req, res) => {
         }))
 ```
 
-2. SongKick API *Gives easy access to the biggest live music database in the world*
+2. SongKick API 
+*Gives easy access to the biggest live music database in the world*
 ```
 router.get("/search" , (req, res) => {
     const artistName = req.query.artistName.replace(/\s/g, "+");
