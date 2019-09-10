@@ -22,7 +22,7 @@ The app is available to anyone but only after logging in the user will be able t
 
 ## How it Works 🔨
 The application uses two seperate API's to retrieve data.
-1. TheAudioDB API 
+1. TheAudioDB API <br>
 *A community Database of audio artwork and data*
 ```
 router.get("/search", (req, res) => {
@@ -52,7 +52,7 @@ router.get("/search", (req, res) => {
         }))
 ```
 
-2. SongKick API 
+2. SongKick API <br>
 *Gives easy access to the biggest live music database in the world*
 ```
 router.get("/search" , (req, res) => {
