@@ -1,4 +1,4 @@
-# MuziqueHub
+# MuziqueHub 🎧
 
 Demo: [MuziqueHub](https://project-3-music-app.herokuapp.com).
 ## About 📖
@@ -97,20 +97,23 @@ These instructions will get you a copy of the project up and running on your loc
 3. Open folder in VS Code. 
 4. Obtain api keys from theaudiodb and SongKick, then place them in your own .env file.
 5. Install all neccessary npm packages by opening your terminal, navigating to the directory, and typing `npm i`.
-6. Type `NPM Start` to run application.
+6. Type `npm start` to run the application.
 7. The chosen port should automatically open in your browser and ENJOY!
 
-## Technologies Used 💻
-* CSS3
-* Express
-* HTML5
-* Javascript ES6
-* MongoDB
-* Node.js
-* PassportJS
-* ReactJS
-* Studio3T
-* VS Code
+## Built With 🔧
+* [CSS3](https://www.w3schools.com/css/) - CSS is a language that describes the style of an HTML document.
+* [Express](https://www.npmjs.com/package/express) - Node.js web app framework designed to make developing websites, web apps, & API's much easier.
+* [ReactJS](https://reactjs.org) - A JavaScript library for building user interfaces.
+* [Heroku](https://www.heroku.com/) - A cloud based platform that lets companies build, deliver, monitor and scale applications.
+* [HTML5](https://www.w3schools.com/html/) - HTML is the standard markup language for Web pages.
+* [Javascript](https://www.javascript.com/) - JavaScript is the programming language of HTML and the Web
+* [JSON](https://www.json.org/) - Javascript object notation, syntax for storing and exchanging information. 
+* [MySQL](https://www.mysql.com/) - Open source relational database management system (RDBMS) based on Structured Query Language (SQL)
+* [MVC](https://www.geeksforgeeks.org/mvc-design-pattern/) - The Model-View-Controller is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller.
+* [Node](https://nodejs.org/en/download/) - As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications. 
+* [PassportJS](http://www.passportjs.org/) - Authentication middleware for NodeJS. 
+* [Sequelize](https://sequelize.readthedocs.io/en/v3/) - Connects objects with relational database systems.
+* [Studio3T](https://studio3t.com) - Studio 3T is the professional GUI and IDE for MongoDB.
 
 ## Creators ✋
 *** Amanda Dovel *** - [amandadovel](https://github.com/amandadovel)
